@@ -44,14 +44,4 @@ print(a[0])
 # print(a.index(13))
 
 # print(a.count(43))
-
-
-
-
-
-
-
-
-
-
 print("Hello")
